@@ -1,0 +1,16 @@
+flutter_native_splash:
+  color: "#ffffff"  # Background color
+  image: "assets/logo2.png"  # The image to display
+
+  # Optional: for Android 12+
+  android_12:
+    image: "assets/logo2.png"
+    icon_background_color: "#ffffff"
+
+  # Optional: full screen splash (hides status bar)
+  fullscreen: true
+
+  # Platform-specific settings
+  android: true
+  ios: true
+  web: false
