@@ -1,5 +1,4 @@
 # Team_Void
-Google Solution Challenge 2025
 What is the GenAI Financial Assistant? 
 This project is your personal AI-powered guide for making smarter investment decisions, specifically tailored for the Indian market. Think of it as a financial companion living in your phone (via an app like Flutter) or accessible through WhatsApp. Its main goal is to provide personalized information, answer your finance questions, keep you updated with relevant news, understand your comfort level with risk, and suggest investment strategies that suit you.
 
